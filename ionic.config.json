@@ -1,0 +1,7 @@
+{
+  "name": "impresora",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
